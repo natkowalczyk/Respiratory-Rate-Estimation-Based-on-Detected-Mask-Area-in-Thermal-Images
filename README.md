@@ -11,4 +11,4 @@ All materials and results will be available after the presentation on CVPM23.
 
 
 ## Paper citation
-Kowalczyk, N., and Rumiński J. "Respiratory Rate Estimation Based on Detected Mask Area in Thermal Images", CVPM 2023
+Natalia Kowalczyk, Jacek Rumiński; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
